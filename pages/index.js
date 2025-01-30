@@ -3,9 +3,9 @@ import Link from "next/link";
 import localFont from "next/font/local";
 import { useState } from "react";
 import { useRouter } from "next/router";
-import { createClient } from '@supabase/supabase-js'
-const supabaseUrl = 'htpps://dtvyznjxprwwsrlbaijw.supabase.co'
-const supabaseKey = process.env.SUPABASE_KEY
+//import { createClient } from '@supabase/supabase-js'
+//const supabaseUrl = 'htpps://dtvyznjxprwwsrlbaijw.supabase.co'
+//const supabaseKey = process.env.SUPABASE_KEY
 
  
  
